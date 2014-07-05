@@ -1,0 +1,24 @@
+﻿
+.box-shadow {
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+
+.navbar-default {
+	background-color: #221D06;
+	border-color: #221D06;
+}
+
+@media all and (min-width: 1px) {
+
+.navbar {
+	border-radius: 0px; 
+}
+
+.alert-warning {
+	background-color: #F1D22E;
+	border-color: #A79516;
+	color: #580C1C;
+}
